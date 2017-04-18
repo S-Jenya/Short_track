@@ -1,0 +1,10 @@
+* {  margin: 0px; padding: 2px;}
+
+#header {  background-color: #ffffff;   text-align: center; }
+#wrapper { width: 100%;  float: left; }
+#content { margin: 0 27%;     text-align: justify; font-size:14pt }
+#navigation {   background-color: #9bcdff; width: 20%;  float: left;   margin-left: -21%; margin-top: 146px; text-size:16 }
+#info {   padding: 8px;  height: 50%; background-color: #9bcdff; width: 20%;   float: left; 
+ margin-left: -100%;   margin-right: -70%;   margin-top: 146px;  }
+
+body {background-color: #EEEEEE;}
